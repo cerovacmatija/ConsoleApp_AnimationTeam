@@ -1,0 +1,29 @@
+Podatci o clanu zvucnog tima: 
+------------------------------
+Ime clana zvucnog tima: bruno
+Prezime clana zvucnog tima: bjelic
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o glumcu: 
+------------------
+OIB glumca: 313112
+Ime glumca: matkic
+Prezime glumca: markovic
+Lik glumca: aiden
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o clanu zvucnog tima: 
+------------------------------
+Ime zvucnog tima: zvuk_1
+Broj clanova zvucnog tima: 34
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o glumcu: 
+------------------
+OIB glumca: 131313
+Ime glumca: kaka
+Prezime glumca: bibi
+Lik glumca: anis
+Ime tima u kojem sudjeluje: zvuk_1
+Projekt na kojem sudjeluje: 1111
+ 

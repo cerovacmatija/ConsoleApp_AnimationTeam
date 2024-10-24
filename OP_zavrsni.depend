@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617983827 source:c:\users\matij\desktop\op_zavrsni\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

@@ -1,0 +1,81 @@
+Podatci o dizajnu: 
+-------------------
+Ime dizajna: dizajn
+Ime dizajnera: 1
+Prezime dizajnera: dabic
+ 
+Podatci o promotivnom materijalu: 
+----------------------------------
+Sifra promotivnog materijala: 2311
+Ime dizajna: promotivni
+Vrsta promotivnog materijala: materijal
+Ime dizajnera: marko
+Prezime dizajnera: makic
+Projekt kojem pripada: 1111
+ 
+Podatci o dizajnu: 
+-------------------
+Ime dizajna: dizajn_1
+Ime dizajnera: matko
+Prezime dizajnera: matkic
+ 
+Podatci o liku: 
+----------------
+Sifra lika: 1231
+Ime lika: mama
+Uloga lika: glavni_lik
+Ime glumca: kata
+Prezime glumca: katic
+Ime dizajnera: matko
+Prezime dizajnera: matkic
+Projekt kojem pripada: 1111
+ 
+Podatci o dizajnu: 
+-------------------
+Ime dizajna: lala
+Ime dizajnera: lala
+Prezime dizajnera: haha
+ 
+Podatci o liku: 
+----------------
+Sifra lika: 111
+Ime lika: laka
+Uloga lika: aka
+Ime glumca: daj
+Prezime glumca: aka
+Ime dizajnera: kda
+Prezime dizajnera: kad
+Projekt kojem pripada: kda
+ 
+Podatci o dizajnu: 
+-------------------
+Ime dizajna: a
+Ime dizajnera: a
+Prezime dizajnera: a
+ 
+Podatci o liku: 
+----------------
+Sifra lika: 1
+Ime lika: a
+Uloga lika: a
+Ime glumca: a
+Prezime glumca: a
+Ime dizajnera: a
+Prezime dizajnera: a
+Projekt kojem pripada: a
+ 
+Podatci o dizajnu: 
+-------------------
+Ime dizajna: a
+Ime dizajnera: a
+Prezime dizajnera: a
+ 
+Podatci o promotivnom materijalu: 
+----------------------------------
+Sifra promotivnog materijala: 1
+Ime dizajna: a
+Vrsta promotivnog materijala: a
+Ime dizajnera: a
+Prezime dizajnera: a
+Projekt kojem pripada: a
+ 

@@ -1,0 +1,25 @@
+Podatci o menadzeru: 
+---------------------
+OIB menadzera: 41313
+Ime menadzera: ime
+Prezime menadzera: prezime
+Pozicija menadzera: Sef
+Odjel menadzera: Uprava
+ 
+Podatci o menadzeru: 
+---------------------
+OIB menadzera: 98831
+Ime menadzera: +3
+Prezime menadzera: kaka
+Pozicija menadzera: uprava
+Odjel menadzera: uprava
+ 
+Pozicija menadzera: jajaj
+Odjel menadzera: kakak
+ 
+Pozicija menadzera: a
+Odjel menadzera: a
+ 
+Pozicija menadzera: Glavni
+Odjel menadzera: Uprava
+ 

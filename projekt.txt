@@ -1,0 +1,24 @@
+Podatci o projektu: 
+--------------------
+Sifra projekta: 1111
+Naziv projekta: projekt1
+Broj sudionika: 23
+Rok izrade: 12
+Cijena: 456
+ 
+Podatci o projektu: 
+--------------------
+Sifra projekta: 1111
+Naziv projekta: Projekt?1
+Broj sudionika: 13
+Rok izrade: 31
+Cijena: 31
+ 
+Podatci o projektu: 
+--------------------
+Sifra projekta: 1
+Naziv projekta: a
+Broj sudionika: 2
+Rok izrade: 12
+Cijena: 12
+ 

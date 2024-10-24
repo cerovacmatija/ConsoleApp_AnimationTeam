@@ -1,0 +1,18 @@
+Podatci o reziseru: 
+--------------------
+OIB rezisera: 13312
+Ime rezisera: branko
+Prezime rezisera: likic
+Uloga rezisera: rezija
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o reziseru: 
+--------------------
+OIB rezisera: 1373791
+Ime rezisera: klaic
+Prezime rezisera: kikic
+Uloga rezisera: rezija
+Projekt na kojem sudjeluje: 1111
+ 
+Godine iskustva: 2
+ 

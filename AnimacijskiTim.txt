@@ -1,0 +1,36 @@
+Podatci o animacijskom timu: 
+------------------
+Ime clana animacijskog tima: matija
+Prezime clana animacijskog tima: kovac
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o aimatoru: 
+------------------
+OIB animatora: 31313
+Ime animatora: marko
+Prezime animatora: makic
+Pozicija animatora: key_frame
+Odjel animatora: animacija
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o animacijskom timu: 
+------------------
+Ime animacijskog tima: at_1
+Broj clanova animacijskog tima: 13
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o bojacu: 
+------------------
+OIB bojaca: 31312
+Ime bojaca: klako
+Prezime bojaca: titix
+Uloga bojaca: bojanje
+Ime tima u kojem sudjeluje: at_1
+Projekt na kojem sudjeluje: 1111
+ 
+Podatci o animacijskom timu: 
+------------------
+Ime animacijskog tima: d
+Broj clanova animacijskog tima: 1
+Projekt na kojem sudjeluje: ad
+ 

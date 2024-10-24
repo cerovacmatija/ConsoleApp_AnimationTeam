@@ -1,0 +1,8 @@
+Podatci o montazeru: 
+---------------------
+OIB montazera: 1313
+Ime montazera: bano
+Prezime montazera: baji
+Uloga montazera: montaza
+Projekt na kojem sudjeluje: 1111
+ 

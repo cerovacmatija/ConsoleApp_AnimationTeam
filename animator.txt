@@ -1,0 +1,3 @@
+Broj scena koje obraduje: 1
+Broj slika koje boja: 21
+ 
